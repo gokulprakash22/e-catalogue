@@ -11,4 +11,4 @@ This project is developed by a team of 6 members<br>
 5. Devadarshini<br>
 6. Jamuna Devi<br>
 <br>
-Technologies used: Unity Engine and Vuforia SDK.
+Technologies Used: Unity Engine and Vuforia SDK.
